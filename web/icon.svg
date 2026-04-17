@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Cooking News">
+  <rect width="512" height="512" rx="112" fill="#15130f"/>
+  <path d="M256 96 C 320 192 384 272 320 368 A 128 128 0 0 1 192 368 C 128 272 192 192 256 96 Z" fill="#f4a63d"/>
+  <path d="M256 224 C 288 264 312 300 280 352 A 48 48 0 0 1 232 352 C 200 300 224 264 256 224 Z" fill="#e08b1a" opacity="0.85"/>
+</svg>

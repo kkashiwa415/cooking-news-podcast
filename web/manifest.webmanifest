@@ -1,0 +1,15 @@
+{
+  "name": "Cooking News",
+  "short_name": "Cooking News",
+  "description": "Tap once. The latest news edition plays.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#15130f",
+  "background_color": "#15130f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

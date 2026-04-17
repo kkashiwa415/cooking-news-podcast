@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#15130f">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Cooking News">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<title>Cooking News</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,500&family=Space+Grotesk:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #15130f;
+    --bg-soft: #1e1b16;
+    --fg: #f4ede0;
+    --dim: #8a8275;
+    --accent: #f4a63d;
+    --accent-down: #e08b1a;
+    --ring: rgba(244, 166, 61, 0.22);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; overscroll-behavior: none; }
+  body {
+    background: radial-gradient(120% 80% at 50% -10%, #221e17 0%, var(--bg) 55%);
+    color: var(--fg);
+    font-family: 'Space Grotesk', -apple-system, system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100svh;
+    display: flex;
+    flex-direction: column;
+    padding:
+      env(safe-area-inset-top, 0)
+      env(safe-area-inset-right, 0)
+      env(safe-area-inset-bottom, 0)
+      env(safe-area-inset-left, 0);
+  }
+
+  .wrap {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: clamp(20px, 4vh, 36px);
+    padding: 40px 24px;
+    text-align: center;
+    width: 100%;
+    max-width: 540px;
+    margin: 0 auto;
+  }
+
+  .kicker {
+    font-weight: 500;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--dim);
+    font-size: 12px;
+  }
+
+  .title {
+    font-family: 'Fraunces', Georgia, serif;
+    font-weight: 500;
+    font-size: clamp(2.75rem, 11vw, 4.75rem);
+    line-height: 1.02;
+    font-variation-settings: "opsz" 144;
+    letter-spacing: -0.02em;
+  }
+  .title em {
+    font-style: italic;
+    font-weight: 500;
+    color: var(--accent);
+  }
+
+  .meta {
+    color: var(--dim);
+    font-size: 15px;
+    letter-spacing: 0.04em;
+  }
+  .meta::before {
+    content: "";
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    margin-right: 10px;
+    vertical-align: middle;
+    transform: translateY(-2px);
+  }
+
+  .play {
+    appearance: none;
+    border: none;
+    background: var(--accent);
+    color: var(--bg);
+    width: min(78vw, 280px);
+    height: min(78vw, 280px);
+    min-width: 220px;
+    min-height: 220px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 30px 80px -10px rgba(244, 166, 61, 0.35), 0 0 0 0 var(--ring);
+    transition: transform 0.12s ease, box-shadow 0.25s ease, background 0.2s ease;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+    position: relative;
+  }
+  .play:hover { background: #f8b150; }
+  .play:active { transform: scale(0.97); background: var(--accent-down); }
+  .play:focus-visible { outline: 3px solid var(--fg); outline-offset: 6px; }
+  .play svg { width: 44%; height: 44%; fill: var(--bg); transition: width 0.15s ease, height 0.15s ease; }
+  .play.is-playing svg { width: 34%; height: 34%; }
+  .play.is-playing { box-shadow: 0 20px 60px -12px rgba(244, 166, 61, 0.5), 0 0 0 12px var(--ring); }
+  .play[disabled] { opacity: 0.45; cursor: default; }
+
+  .secondary {
+    appearance: none;
+    border: 1px solid rgba(244, 237, 224, 0.18);
+    background: transparent;
+    color: var(--fg);
+    font: inherit;
+    font-size: 15px;
+    padding: 14px 24px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: border-color 0.2s ease, background 0.15s ease, transform 0.1s ease;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 6px;
+  }
+  .secondary[hidden] { display: none; }
+  .secondary:hover { border-color: rgba(244, 237, 224, 0.36); }
+  .secondary:active { background: rgba(244, 237, 224, 0.08); transform: scale(0.98); }
+  .secondary b {
+    font-family: 'Fraunces', Georgia, serif;
+    font-style: italic;
+    font-weight: 500;
+    color: var(--accent);
+    margin-right: 2px;
+  }
+
+  .footer {
+    padding: 22px;
+    text-align: center;
+    color: var(--dim);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .error {
+    max-width: 28ch;
+    color: var(--dim);
+    font-family: 'Fraunces', Georgia, serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 1.3;
+  }
+
+  @media (max-height: 640px) {
+    .wrap { gap: 16px; padding: 24px; }
+    .play { width: 200px; height: 200px; min-width: 200px; min-height: 200px; }
+    .title { font-size: 2.2rem; }
+  }
+</style>
+</head>
+<body>
+<main class="wrap" id="wrap">
+  <div class="kicker">Loading&hellip;</div>
+</main>
+<footer class="footer"><span id="updated">&nbsp;</span></footer>
+<audio id="audio" preload="metadata" playsinline></audio>
+
+<script>
+  const MANIFEST_URL = './episodes.json';
+  const CACHE_KEY = 'cooking-news-manifest-v1';
+  const WEEKDAY = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+
+  const PLAY_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.25a1 1 0 0 1 1.55-.83l11 7.75a1 1 0 0 1 0 1.66l-11 7.75A1 1 0 0 1 7 19.75Z"/></svg>';
+  const PAUSE_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="4.5" width="4.2" height="15" rx="1"/><rect x="13.8" y="4.5" width="4.2" height="15" rx="1"/></svg>';
+
+  const wrap = document.getElementById('wrap');
+  const audio = document.getElementById('audio');
+  const updatedEl = document.getElementById('updated');
+
+  const state = {
+    episodes: [],
+    activeIdx: 0,
+    updated: null,
+  };
+
+  function prettyLabel(ep) {
+    const [y, m, d] = ep.date.split('-').map(Number);
+    const dt = new Date(y, m - 1, d);
+    return { weekday: WEEKDAY[dt.getDay()], edition: ep.edition };
+  }
+
+  function prettyDuration(sec) {
+    if (!sec) return '';
+    const m = Math.max(1, Math.round(sec / 60));
+    return m + ' min';
+  }
+
+  function renderError(msg) {
+    wrap.innerHTML = '<p class="error">' + msg + '</p>';
+  }
+
+  function render() {
+    const ep = state.episodes[state.activeIdx];
+    const other = state.episodes[state.activeIdx === 0 ? 1 : 0];
+    const isActiveLatest = state.activeIdx === 0;
+
+    const { weekday, edition } = prettyLabel(ep);
+    const kicker = isActiveLatest ? "Today&rsquo;s edition" : 'Previous episode';
+    const durationStr = prettyDuration(ep.duration_sec);
+
+    let secondaryHtml = '';
+    if (other) {
+      const other_ = prettyLabel(other);
+      const otherLabel = (other_.weekday + ' ' + other_.edition).toLowerCase();
+      const prefix = isActiveLatest ? 'Missed one?' : 'Back to';
+      const verb = isActiveLatest ? 'Play' : '';
+      secondaryHtml =
+        '<button class="secondary" id="swapBtn">' +
+          '<b>' + prefix + '</b> ' +
+          (verb ? verb + ' ' : '') +
+          otherLabel +
+        '</button>';
+    }
+
+    wrap.innerHTML =
+      '<div class="kicker">' + kicker + '</div>' +
+      '<h1 class="title"><em>' + weekday + '</em><br>' + edition + '</h1>' +
+      '<div class="meta">' + (durationStr || '&nbsp;') + '</div>' +
+      '<button class="play" id="playBtn" aria-label="Play">' + PLAY_SVG + '</button>' +
+      secondaryHtml;
+
+    document.getElementById('playBtn').addEventListener('click', onPlayTap);
+    const swap = document.getElementById('swapBtn');
+    if (swap) swap.addEventListener('click', onSwapTap);
+
+    loadEpisodeAudio(ep);
+    reflectPlayingState();
+
+    if (state.updated) {
+      try {
+        const d = new Date(state.updated);
+        updatedEl.textContent = 'Updated ' + d.toLocaleString(undefined, {
+          month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit'
+        });
+      } catch (_) { /* ignore */ }
+    }
+  }
+
+  function onPlayTap() {
+    if (audio.paused) audio.play().catch(() => {});
+    else audio.pause();
+  }
+
+  function onSwapTap() {
+    state.activeIdx = state.activeIdx === 0 ? 1 : 0;
+    render();
+    audio.play().catch(() => {});
+  }
+
+  function loadEpisodeAudio(ep) {
+    // Only swap src if it's actually a different file, so playback doesn't restart.
+    const newSrc = ep.file;
+    const cur = audio.getAttribute('src') || '';
+    if (!cur.endsWith(newSrc)) {
+      audio.src = newSrc;
+    }
+    setMediaSession(ep);
+  }
+
+  function setMediaSession(ep) {
+    if (!('mediaSession' in navigator)) return;
+    const { weekday, edition } = prettyLabel(ep);
+    try {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: weekday + ' ' + edition + ' edition',
+        artist: 'Cooking News',
+        album: 'Cooking News Podcast',
+        artwork: [{ src: 'icon.svg', sizes: '512x512', type: 'image/svg+xml' }]
+      });
+      navigator.mediaSession.setActionHandler('play', () => audio.play().catch(() => {}));
+      navigator.mediaSession.setActionHandler('pause', () => audio.pause());
+    } catch (_) { /* ignore */ }
+  }
+
+  function reflectPlayingState() {
+    const btn = document.getElementById('playBtn');
+    if (!btn) return;
+    if (!audio.paused) {
+      btn.classList.add('is-playing');
+      btn.innerHTML = PAUSE_SVG;
+      btn.setAttribute('aria-label', 'Pause');
+    } else {
+      btn.classList.remove('is-playing');
+      btn.innerHTML = PLAY_SVG;
+      btn.setAttribute('aria-label', 'Play');
+    }
+  }
+
+  audio.addEventListener('play', reflectPlayingState);
+  audio.addEventListener('pause', reflectPlayingState);
+  audio.addEventListener('ended', reflectPlayingState);
+
+  function acceptManifest(manifest) {
+    const episodes = Array.isArray(manifest.episodes) ? manifest.episodes : [];
+    if (!episodes.length) {
+      renderError('No episodes yet. Check back after the next scheduled run.');
+      return;
+    }
+    state.episodes = episodes;
+    state.activeIdx = 0;
+    state.updated = manifest.updated || null;
+    render();
+  }
+
+  async function boot() {
+    try {
+      const res = await fetch(MANIFEST_URL + '?t=' + Date.now(), { cache: 'no-store' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const fresh = await res.json();
+      try { localStorage.setItem(CACHE_KEY, JSON.stringify(fresh)); } catch (_) {}
+      acceptManifest(fresh);
+      return;
+    } catch (err) {
+      try {
+        const cached = localStorage.getItem(CACHE_KEY);
+        if (cached) {
+          acceptManifest(JSON.parse(cached));
+          return;
+        }
+      } catch (_) {}
+      renderError('Can\u2019t reach the episode list. Check your connection and try again.');
+    }
+  }
+
+  boot();
+</script>
+</body>
+</html>

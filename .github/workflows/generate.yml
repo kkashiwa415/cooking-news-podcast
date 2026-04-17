@@ -1,0 +1,80 @@
+name: Generate Podcast
+
+on:
+  schedule:
+    # 12:00 UTC = 8:00 AM ET (morning edition), Mon/Thu/Sat
+    - cron: '0 12 * * 1,4,6'
+    # 23:00 UTC = 7:00 PM ET (evening edition), Mon/Thu/Sat
+    - cron: '0 23 * * 1,4,6'
+  workflow_dispatch:
+    inputs:
+      edition:
+        description: 'Which edition to generate'
+        required: true
+        default: 'both'
+        type: choice
+        options:
+          - morning
+          - evening
+          - both
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-podcast
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Determine edition
+        id: which
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            EDITION="${{ github.event.inputs.edition }}"
+          elif [ "${{ github.event.schedule }}" = "0 12 * * 1,4,6" ]; then
+            EDITION="morning"
+          else
+            EDITION="evening"
+          fi
+          echo "edition=$EDITION" >> "$GITHUB_OUTPUT"
+          echo "Selected edition: $EDITION"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore cross-day dedup cache
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: podcast-cache-${{ github.run_id }}
+          restore-keys: |
+            podcast-cache-
+
+      - name: Generate episode(s)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_podcast.py --edition ${{ steps.which.outputs.edition }}
+
+      - name: Commit and push new files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output web
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+            exit 0
+          fi
+          git commit -m "Generate ${{ steps.which.outputs.edition }} episode $(date -u '+%Y-%m-%d %H:%MZ')"
+          git push

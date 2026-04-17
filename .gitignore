@@ -1,0 +1,23 @@
+# Secrets - never commit
+.env
+
+# Local dedup cache (actions/cache handles this on CI)
+cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Internal handoff notes - not part of the published project
+CLAUDE_CODE_HANDOFF.md
