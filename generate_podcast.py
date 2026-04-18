@@ -322,8 +322,9 @@ labelling them. Do not use the words "What happened", "Why", etc. as section hea
   5. The outlook - what to watch for next
 
 Episode structure:
-- Open with a warm greeting that mentions the edition (morning or evening) and \
-  teases the top story.
+- Open with ONE punchy line that teases the top story and pulls the listener in. \
+  No greeting, no "good morning," no references to cooking, breakfast, dinner, or \
+  what the listener might be doing. Straight into the news.
 - Transition smoothly between stories ("In other news...", "Turning to crypto...", etc.).
 - Close with a short sign-off.
 
