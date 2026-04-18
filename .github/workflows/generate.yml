@@ -2,10 +2,10 @@ name: Generate Podcast
 
 on:
   schedule:
-    # 12:00 UTC = 8:00 AM ET (morning edition), Mon/Thu/Sat
-    - cron: '0 12 * * 1,4,6'
-    # 23:00 UTC = 7:00 PM ET (evening edition), Mon/Thu/Sat
-    - cron: '0 23 * * 1,4,6'
+    # 22:00 UTC Sun/Wed/Fri = 7:00 AM JST Mon/Thu/Sat - morning edition
+    - cron: '0 22 * * 0,3,5'
+    # 09:00 UTC Mon/Thu/Sat = 6:00 PM JST Mon/Thu/Sat - evening edition
+    - cron: '0 9 * * 1,4,6'
   workflow_dispatch:
     inputs:
       edition:
@@ -37,7 +37,7 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             EDITION="${{ github.event.inputs.edition }}"
-          elif [ "${{ github.event.schedule }}" = "0 12 * * 1,4,6" ]; then
+          elif [ "${{ github.event.schedule }}" = "0 22 * * 0,3,5" ]; then
             EDITION="morning"
           else
             EDITION="evening"
