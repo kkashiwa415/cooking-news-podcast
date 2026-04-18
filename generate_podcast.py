@@ -86,11 +86,12 @@ ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
 
 # Edge TTS is Microsoft's free neural TTS - no API key required.
 # Full voice list: run `edge-tts --list-voices` in your terminal.
-EDGE_TTS_VOICE_DEFAULT = "en-US-AriaNeural"   # warm, professional female
+EDGE_TTS_VOICE_DEFAULT = "en-GB-RyanNeural"   # male British narrator
 # Other solid options:
+#   en-GB-ThomasNeural       - alternate male British
+#   en-GB-SoniaNeural        - female British
+#   en-US-AriaNeural         - warm professional female
 #   en-US-GuyNeural          - friendly male
-#   en-US-JennyNeural        - news-anchor female
-#   en-GB-SoniaNeural        - British female
 #   en-US-AndrewMultilingualNeural - rich male
 
 # ---------------------------------------------------------------------------
