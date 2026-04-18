@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-18",
+  "edition": "morning",
+  "generated_at": "2026-04-18T01:54:38.688532+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+      "published": "Fri, 17 Apr 2026 22:34:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy proposes semi-monthly dividends on its popular STRC preferred stock",
+      "link": "https://www.coindesk.com/markets/2026/04/17/strategy-proposes-semi-monthly-dividends-on-its-popular-strc-preferred-stock",
+      "summary": "",
+      "published": "Fri, 17 Apr 2026 20:32:55 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "published": "Fri, 17 Apr 2026 20:38:17 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Sam Altman\u2019s World project launches major upgrade to fight deepfakes and bots",
+      "link": "https://www.coindesk.com/tech/2026/04/17/sam-altman-s-world-project-launches-major-upgrade-to-fight-deepfakes-and-bots",
+      "summary": "",
+      "published": "Fri, 17 Apr 2026 17:50:27 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+      "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+      "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
+      "published": "Fri, 17 Apr 2026 20:16:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Beaten-down digital asset treasury names lead crypto stock surge as bitcoin hits $78,000",
+      "link": "https://www.coindesk.com/markets/2026/04/17/beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits-usd78-000",
+      "summary": "",
+      "published": "Fri, 17 Apr 2026 16:01:15 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "published": "Fri, 17 Apr 2026 19:17:26 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Don\u2019t get AI agents and stablecoin transfers? Enroll in CoinDesk University",
+      "link": "https://www.coindesk.com/opinion/2026/04/17/don-t-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university",
+      "summary": "",
+      "published": "Fri, 17 Apr 2026 15:29:03 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "\u2018Tokenmaxxing\u2019 is making developers less productive than they think",
+      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "summary": "There's a lot more code \u2014 but it's a lot more expensive and requires a lot more rewriting.",
+      "published": "Fri, 17 Apr 2026 18:42:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Back in the black: Strategy surges 8% as bitcoin's rise to $77,000 puts holdings in profit",
+      "link": "https://www.coindesk.com/markets/2026/04/17/strategy-back-in-profit-as-bitcoin-hits-two-and-a-half-month-high-above-usd76-300",
+      "summary": "",
+      "published": "Fri, 17 Apr 2026 13:38:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
+      "link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
+      "summary": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life attacks, according to a cybersecurity firm.",
+      "published": "Fri, 17 Apr 2026 17:48:46 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: Stellar (XLM) gains 1.5%, leading index higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/04/17/coindesk-20-performance-update-stellar-xlm-gains-1-5-leading-index-higher",
+      "summary": "",
+      "published": "Fri, 17 Apr 2026 13:18:08 +0000"
+    }
+  ]
+}
