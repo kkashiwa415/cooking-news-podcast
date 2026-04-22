@@ -1,6 +1,12 @@
 {
-  "updated": "2026-04-20T10:49:23Z",
+  "updated": "2026-04-22T22:51:08Z",
   "episodes": [
+    {
+      "date": "2026-04-22",
+      "edition": "morning",
+      "file": "audio/2026-04-22_morning.mp3",
+      "duration_sec": 835
+    },
     {
       "date": "2026-04-20",
       "edition": "evening",

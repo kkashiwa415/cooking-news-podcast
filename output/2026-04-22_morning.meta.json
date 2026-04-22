@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-22",
+  "edition": "morning",
+  "generated_at": "2026-04-22T22:49:22.835257+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Google updates Workspace to make AI your new office intern",
+      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "published": "Wed, 22 Apr 2026 22:44:26 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi flags more insider trading cases, including politician who appeared on FBoy Island",
+      "link": "https://www.coindesk.com/policy/2026/04/22/kalshi-flags-more-insider-trading-cases-including-politician-who-appeared-on-fboy-island",
+      "summary": "",
+      "published": "Wed, 22 Apr 2026 21:14:22 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elon Musk admits millions of Tesla owners need upgrades for true \u2018Full Self-Driving\u2019",
+      "link": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+      "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
+      "published": "Wed, 22 Apr 2026 22:39:58 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Elon Musk's Tesla reports unchanged bitcoin holdings, books $173 million digital asset loss",
+      "link": "https://www.coindesk.com/markets/2026/04/22/elon-musk-s-tesla-reports-unchanged-bitcoin-holdings-books-usd173-million-digital-asset-loss",
+      "summary": "",
+      "published": "Wed, 22 Apr 2026 20:36:19 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hands on with X\u2019s new AI-powered custom feeds",
+      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+      "published": "Wed, 22 Apr 2026 22:25:53 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The question isn't whether privacy. It's what sort of privacy",
+      "link": "https://www.coindesk.com/opinion/2026/04/22/the-question-isn-t-whether-privacy-it-s-what-sort-of-privacy",
+      "summary": "",
+      "published": "Wed, 22 Apr 2026 18:30:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "LinkedIn\u2019s CEO is moving on; please hold your tearful video tributes",
+      "link": "https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/",
+      "summary": "Ryan Roslansky has stepped down as LinkedIn's CEO after six years running the world's largest professional network. Dan Shapero, the company's COO, takes over immediately.",
+      "published": "Wed, 22 Apr 2026 21:37:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Banks seek to slow down implementation of crypto's GENIUS Act on stablecoin oversight",
+      "link": "https://www.coindesk.com/policy/2026/04/22/banks-seek-to-slow-down-implementation-of-crypto-s-genius-act-on-stablecoin-oversight",
+      "summary": "",
+      "published": "Wed, 22 Apr 2026 16:23:10 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
+      "link": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
+      "summary": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
+      "published": "Wed, 22 Apr 2026 20:57:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Protocol: Kelp DAO exploited for $292 million",
+      "link": "https://www.coindesk.com/tech/2026/04/22/the-protocol-kelp-dao-exploited-for-usd292-million",
+      "summary": "",
+      "published": "Wed, 22 Apr 2026 16:22:42 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "NASA\u2019s Artemis II moon mission shows space-to-Earth laser comms can scale",
+      "link": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
+      "summary": "Observable Space and Quantum Opus teamed up to capture data beamed back from space.",
+      "published": "Wed, 22 Apr 2026 20:09:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Protecting the people building DeFi infrastructure",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/04/22/crypto-long-and-short-protecting-the-people-building-defi-infrastructure",
+      "summary": "",
+      "published": "Wed, 22 Apr 2026 16:04:07 +0000"
+    }
+  ]
+}
