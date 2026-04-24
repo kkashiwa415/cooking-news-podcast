@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-24",
+  "edition": "morning",
+  "generated_at": "2026-04-24T22:39:41.294163+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+      "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+      "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
+      "published": "Fri, 24 Apr 2026 21:53:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+      "link": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
+      "summary": "",
+      "published": "Fri, 24 Apr 2026 22:09:13 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
+      "link": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments.",
+      "published": "Fri, 24 Apr 2026 21:35:30 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
+      "link": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound",
+      "summary": "",
+      "published": "Fri, 24 Apr 2026 21:04:46 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+      "link": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+      "summary": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
+      "published": "Fri, 24 Apr 2026 21:05:59 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+      "link": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+      "summary": "",
+      "published": "Fri, 24 Apr 2026 19:50:07 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta\u2019s loss is Thinking Machines\u2019 gain",
+      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "published": "Fri, 24 Apr 2026 20:52:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump's DOJ drops probe that stood in way of president's pick to run Federal Reserve",
+      "link": "https://www.coindesk.com/news-analysis/2026/04/24/trump-s-doj-drops-probe-that-stood-in-way-of-president-s-pick-to-run-federal-reserve",
+      "summary": "",
+      "published": "Fri, 24 Apr 2026 16:38:39 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "X-energy stock pops 27% on first day of trading following upsized IPO",
+      "link": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
+      "summary": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.",
+      "published": "Fri, 24 Apr 2026 20:10:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Jane Street asks court to reject Terraform claims tied to UST-LUNA crash",
+      "link": "https://www.coindesk.com/policy/2026/04/24/jane-street-asks-court-to-reject-terraform-claims-tied-to-ust-luna-crash",
+      "summary": "",
+      "published": "Fri, 24 Apr 2026 15:53:44 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "published": "Fri, 24 Apr 2026 19:49:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine to buy 10,000 ether for $23.9 million from the Ethereum Foundation",
+      "link": "https://www.coindesk.com/business/2026/04/24/bitmine-to-buy-10-000-ether-for-usd23-8-million-from-the-ethereum-foundation",
+      "summary": "",
+      "published": "Fri, 24 Apr 2026 15:47:48 +0000"
+    }
+  ]
+}
