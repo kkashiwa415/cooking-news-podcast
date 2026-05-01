@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-01",
+  "edition": "morning",
+  "generated_at": "2026-05-01T22:51:59.325792+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Musely secures $360M from General Catalyst without giving up equity",
+      "link": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+      "summary": "The DTC skin, hair, and and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
+      "published": "Fri, 01 May 2026 22:39:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
+      "link": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
+      "summary": "",
+      "published": "Fri, 01 May 2026 21:33:27 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "published": "Fri, 01 May 2026 22:13:27 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+      "link": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+      "summary": "",
+      "published": "Fri, 01 May 2026 20:59:09 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+      "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+      "published": "Fri, 01 May 2026 18:23:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+      "link": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+      "summary": "",
+      "published": "Fri, 01 May 2026 18:16:40 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "published": "Fri, 01 May 2026 16:02:36 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Canadian pension giant AIMCo buys the dip in Strategy, now sitting on $69 million unrealized gain",
+      "link": "https://www.coindesk.com/markets/2026/05/01/canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-usd69-million-unrealized-gain",
+      "summary": "",
+      "published": "Fri, 01 May 2026 17:40:40 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ubuntu services hit by outages after DDoS attack",
+      "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
+      "summary": "A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system.",
+      "published": "Fri, 01 May 2026 15:00:14 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A new narrative for bitcoin that will last",
+      "link": "https://www.coindesk.com/opinion/2026/05/01/a-new-narrative-for-bitcoin-that-will-last",
+      "summary": "",
+      "published": "Fri, 01 May 2026 17:33:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Musk v. Altman is just getting started",
+      "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the \u201cnonprofit for the [&#8230;]",
+      "published": "Fri, 01 May 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether posts $1.04 billion Q1 profit, reaches $8.23 billion reserve buffer",
+      "link": "https://www.coindesk.com/business/2026/05/01/tether-posts-usd1-04-billion-q1-profit-reaches-usd8-23-billion-reserve-buffer",
+      "summary": "",
+      "published": "Fri, 01 May 2026 16:23:59 +0000"
+    }
+  ]
+}
