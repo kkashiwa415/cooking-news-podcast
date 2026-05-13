@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-13",
+  "edition": "morning",
+  "generated_at": "2026-05-13T23:05:38.392549+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "summary": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "published": "Wed, 13 May 2026 21:45:09 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum app builder Consensys has delayed its potential IPO until fall",
+      "link": "https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall",
+      "summary": "",
+      "published": "Wed, 13 May 2026 19:01:56 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Musk\u2019s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+      "published": "Wed, 13 May 2026 19:49:42 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Protocol: Solana\u2019s \u2018Alpenglow\u2019 upgrade is live for testing",
+      "link": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
+      "summary": "",
+      "published": "Wed, 13 May 2026 16:48:39 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic\u2019s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+      "published": "Wed, 13 May 2026 19:28:06 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Metaplanet delays preferred share listing amid challenging Japanese market structure",
+      "link": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
+      "summary": "",
+      "published": "Wed, 13 May 2026 16:43:49 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "This is what some of the world\u2019s largest banks of malware look like stacked as hard drives",
+      "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
+      "summary": "What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?",
+      "published": "Wed, 13 May 2026 18:12:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK parliament to probe Nigel Farage\u2019s $6.8 million donation from crypto billionaire",
+      "link": "https://www.coindesk.com/policy/2026/05/13/uk-parliament-to-probe-nigel-farage-s-usd6-8-million-donation-from-crypto-billionaire",
+      "summary": "",
+      "published": "Wed, 13 May 2026 16:34:14 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+      "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
+      "summary": "Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
+      "published": "Wed, 13 May 2026 17:42:20 +0000"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned&#8230;",
+      "published": "Tue, 12 May 2026 12:10:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Bitcoin vs. gold: 26% relative undervaluation",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-long-and-short-bitcoin-vs-gold-26-relative-undervaluation",
+      "summary": "",
+      "published": "Wed, 13 May 2026 15:44:26 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Instagram\u2019s new \u2018Instants\u2019 feature combines elements from Snapchat and BeReal",
+      "link": "https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/",
+      "summary": "The feature lets users share disappearing photos with their close friends or mutual followers that can be viewed only once and remain available for 24 hours.",
+      "published": "Wed, 13 May 2026 16:57:40 +0000"
+    }
+  ]
+}
