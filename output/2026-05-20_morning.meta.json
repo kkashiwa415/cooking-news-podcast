@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-20",
+  "edition": "morning",
+  "generated_at": "2026-05-20T23:13:49.100865+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+      "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+      "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and Chairman of the board.",
+      "published": "Wed, 20 May 2026 23:03:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
+      "link": "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs",
+      "summary": "",
+      "published": "Wed, 20 May 2026 22:55:53 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "published": "Wed, 20 May 2026 22:30:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook",
+      "link": "https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook",
+      "summary": "",
+      "published": "Wed, 20 May 2026 22:22:52 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "xAI burned $6.4B last year. SpaceX\u2019s IPO filing shows why the spending is far from over",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion \u2014 offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "published": "Wed, 20 May 2026 22:26:08 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Federal Reserve proposes limited master accounts long pursued by crypto firms",
+      "link": "https://www.coindesk.com/policy/2026/05/20/federal-reserve-proposes-limited-master-accounts-long-pursued-by-crypto-firms",
+      "summary": "",
+      "published": "Wed, 20 May 2026 22:11:10 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+      "published": "Wed, 20 May 2026 22:03:51 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Elon Musk's SpaceX held 18,712 bitcoin at fair value of $1.29 billion at end of Q1, IPO filing shows",
+      "link": "https://www.coindesk.com/markets/2026/05/20/elon-musk-s-spacex-holds-18-712-bitcoin-at-fair-value-of-usd1-29-billion-ipo-filing-shows",
+      "summary": "",
+      "published": "Wed, 20 May 2026 21:32:50 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Musk\u2019s xAI is being sued over its data center generators \u2014 now it\u2019s buying $2.8B more",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+      "published": "Wed, 20 May 2026 21:55:49 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Securitize remains in the red even as record quarter fuels public listing plans",
+      "link": "https://www.coindesk.com/markets/2026/05/20/securitize-remains-in-the-red-even-as-record-quarter-fuels-public-listing-plans",
+      "summary": "",
+      "published": "Wed, 20 May 2026 18:37:42 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+      "published": "Wed, 20 May 2026 21:29:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Latest Congressional swing at crypto tax reform would direct IRS to review de minimis exemptions",
+      "link": "https://www.coindesk.com/policy/2026/05/20/latest-congressional-swing-at-crypto-tax-reform-would-direct-irs-to-review-de-minimis-exemptions",
+      "summary": "",
+      "published": "Wed, 20 May 2026 18:07:29 +0000"
+    }
+  ]
+}
