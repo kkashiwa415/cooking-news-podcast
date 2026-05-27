@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-27",
+  "edition": "morning",
+  "generated_at": "2026-05-27T23:18:30.988593+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Rivian will deliver the first R2 SUVs on June 9",
+      "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+      "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we\u2019ve launched to date.\"",
+      "published": "Wed, 27 May 2026 21:15:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Google engineer insider-traded search results on Polymarket, Feds allege",
+      "link": "https://www.coindesk.com/policy/2026/05/27/google-engineer-insider-traded-search-results-on-polymarket-feds-allege",
+      "summary": "",
+      "published": "Wed, 27 May 2026 21:57:49 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "summary": "The Series B round was led by Battery Ventures.",
+      "published": "Wed, 27 May 2026 21:11:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The crypto industry\u2019s massive political war chest is starting to lean Republican ahead of midterms",
+      "link": "https://www.coindesk.com/news-analysis/2026/05/27/crypto-cash-backs-potential-new-allies-in-congress-as-industry-pac-presence-widens",
+      "summary": "",
+      "published": "Wed, 27 May 2026 21:24:12 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "published": "Wed, 27 May 2026 20:10:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street gets new crypto rival after Texas bank completes regulatory pivot",
+      "link": "https://www.coindesk.com/policy/2026/05/27/wall-street-gets-new-crypto-rival-after-texas-bank-completes-regulatory-pivot",
+      "summary": "",
+      "published": "Wed, 27 May 2026 19:09:12 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+      "published": "Wed, 27 May 2026 19:39:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge",
+      "link": "https://www.coindesk.com/markets/2026/05/27/elon-musk-could-become-a-top-5-corporate-bitcoin-holder-if-tesla-and-spacex-merge",
+      "summary": "",
+      "published": "Wed, 27 May 2026 18:04:08 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "UK Visa Portal exposed thousands of applicants\u2019 passports and selfies \u2014 then called the lawyers on us",
+      "link": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "summary": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys.",
+      "published": "Wed, 27 May 2026 18:25:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: How the GENIUS Act repriced bitcoin's monetary premium",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/05/27/crypto-long-and-short-how-the-genius-act-repriced-bitcoin-s-monetary-premium",
+      "summary": "",
+      "published": "Wed, 27 May 2026 16:00:20 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader \u201cMeta One\u201d subscription brand.",
+      "published": "Wed, 27 May 2026 18:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BIS project finds tokenization could make cross-border payments faster, safer",
+      "link": "https://www.coindesk.com/business/2026/05/27/bis-project-finds-tokenization-could-make-cross-border-payments-faster-safer",
+      "summary": "",
+      "published": "Wed, 27 May 2026 15:45:14 +0000"
+    }
+  ]
+}
