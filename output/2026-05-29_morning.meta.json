@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-29",
+  "edition": "morning",
+  "generated_at": "2026-05-29T23:13:41.855020+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+      "link": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+      "summary": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+      "published": "Fri, 29 May 2026 22:21:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "\u2018The banks will not accept it\u2019: Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
+      "link": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate",
+      "summary": "",
+      "published": "Fri, 29 May 2026 20:03:52 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them",
+      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "published": "Fri, 29 May 2026 22:14:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
+      "link": "https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors",
+      "summary": "",
+      "published": "Fri, 29 May 2026 16:29:42 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "Fri, 29 May 2026 18:49:19 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
+      "link": "https://www.coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo",
+      "summary": "",
+      "published": "Fri, 29 May 2026 15:31:07 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "What happens when companies become too AI-pilled?",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.\u201d Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+      "published": "Fri, 29 May 2026 17:57:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says",
+      "link": "https://www.coindesk.com/policy/2026/05/29/clarity-act-risks-regulation-without-oversight-brookings-fellow-says",
+      "summary": "",
+      "published": "Fri, 29 May 2026 15:14:55 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After Nvidia\u2019s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      "published": "Fri, 29 May 2026 17:27:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live markets: Bitcoin shrugs off early decline, but two-month winning streak is in jeopardy",
+      "link": "https://www.coindesk.com/markets/2026/05/29/live-markets-bitcoin-slides-further-putting-two-month-winning-streak-in-jeopardy",
+      "summary": "",
+      "published": "Fri, 29 May 2026 14:50:50 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "DoorDash: Great Business At A Good Price",
+      "link": "https://seekingalpha.com/article/4910174-doordash-great-business-at-a-good-price?source=feed_all_articles",
+      "summary": "",
+      "published": "Fri, 29 May 2026 18:47:45 -0400"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cognition\u2019s Scott Wu says AI coding agents shouldn\u2019t replace humans",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "published": "Fri, 29 May 2026 16:13:47 +0000"
+    }
+  ]
+}
