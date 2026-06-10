@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-10",
+  "edition": "morning",
+  "generated_at": "2026-06-10T23:25:52.632180+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "published": "Wed, 10 Jun 2026 22:31:19 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Privacy returns to focus as Ethereum developers explore new token standards",
+      "link": "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards",
+      "summary": "",
+      "published": "Wed, 10 Jun 2026 18:14:58 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Why Andrew Yang is building instead of waiting for Washington",
+      "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+      "summary": "Andrew Yang\u2019s 2020 presidential campaign&#160;was based on a&#160;warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all&#160;saying versions&#160;of the same thing.&#160; An entrepreneur at heart, [&#8230;]",
+      "published": "Wed, 10 Jun 2026 22:24:12 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
+      "link": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
+      "summary": "",
+      "published": "Wed, 10 Jun 2026 18:09:23 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+      "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+      "summary": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
+      "published": "Wed, 10 Jun 2026 21:33:32 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase-backed Stand With Crypto calls on members to campaign against banks blocking digital asset transactions",
+      "link": "https://www.coindesk.com/business/2026/06/10/over-280-000-uk-crypto-holders-kick-off-campaign-against-banks-blocking-transactions",
+      "summary": "",
+      "published": "Wed, 10 Jun 2026 17:53:09 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Everyone wants a piece of Tesla\u2019s battery business",
+      "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+      "summary": "Electricity demand from AI data centers is pushing everyone \u2014 including automakers like GM and Ford \u2014 into the energy storage business.",
+      "published": "Wed, 10 Jun 2026 20:21:25 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Who answers the 3am call when DeFi breaks?",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-long-and-short-who-answers-the-3am-call-when-defi-breaks",
+      "summary": "",
+      "published": "Wed, 10 Jun 2026 16:20:10 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+      "published": "Wed, 10 Jun 2026 20:19:31 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand",
+      "link": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
+      "summary": "",
+      "published": "Wed, 10 Jun 2026 16:17:18 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+      "link": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+      "summary": "North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
+      "published": "Wed, 10 Jun 2026 19:57:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
+      "link": "https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s",
+      "summary": "",
+      "published": "Wed, 10 Jun 2026 16:07:00 +0000"
+    }
+  ]
+}
