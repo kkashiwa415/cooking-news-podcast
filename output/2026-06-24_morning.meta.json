@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-24",
+  "edition": "morning",
+  "generated_at": "2026-06-24T23:04:01.410676+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "published": "Wed, 24 Jun 2026 22:41:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Upheaval at the Ethereum Foundation has some of crypto\u2019s biggest names feeling bullish",
+      "link": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
+      "summary": "",
+      "published": "Wed, 24 Jun 2026 19:52:39 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they\u2019re the most resilient",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "published": "Wed, 24 Jun 2026 21:56:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
+      "link": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
+      "summary": "",
+      "published": "Wed, 24 Jun 2026 19:48:23 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI researchers continue to leave Google for its rivals",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+      "published": "Wed, 24 Jun 2026 21:42:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
+      "link": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
+      "summary": "",
+      "published": "Wed, 24 Jun 2026 17:18:08 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The memory chip crunch is paying off for this US company",
+      "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+      "published": "Wed, 24 Jun 2026 21:30:55 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital",
+      "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
+      "summary": "",
+      "published": "Wed, 24 Jun 2026 16:01:02 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "New website names and shames companies that still don\u2019t offer passkeys to users",
+      "link": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
+      "summary": "According to a new site, 24% of the most popular websites in the world don't offer support for passkeys, which are considered the most secure way to log in to apps and services.",
+      "published": "Wed, 24 Jun 2026 21:04:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
+      "summary": "",
+      "published": "Wed, 24 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "published": "Wed, 24 Jun 2026 20:09:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
+      "link": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
+      "summary": "",
+      "published": "Wed, 24 Jun 2026 15:45:42 +0000"
+    }
+  ]
+}
