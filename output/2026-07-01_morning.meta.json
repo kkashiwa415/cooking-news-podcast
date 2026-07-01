@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-01",
+  "edition": "morning",
+  "generated_at": "2026-07-01T23:15:43.736936+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
+      "published": "Wed, 01 Jul 2026 22:47:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
+      "link": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
+      "summary": "",
+      "published": "Wed, 01 Jul 2026 21:13:24 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+      "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+      "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
+      "published": "Wed, 01 Jul 2026 22:28:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood rolls out public blockchain as it expands deeper into crypto",
+      "link": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
+      "summary": "",
+      "published": "Wed, 01 Jul 2026 18:25:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "WhatsApp usernames are already raising impersonation red flags",
+      "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+      "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
+      "published": "Wed, 01 Jul 2026 22:02:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum Foundation lays out use cases for governments, institutions in new policy guide",
+      "link": "https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide",
+      "summary": "",
+      "published": "Wed, 01 Jul 2026 17:52:33 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple\u2019s Hide My Email feature has a bug that\u2019s been exposing real email addresses, researcher claims",
+      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+      "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
+      "published": "Wed, 01 Jul 2026 19:18:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "link": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
+      "summary": "",
+      "published": "Wed, 01 Jul 2026 16:11:50 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "published": "Wed, 01 Jul 2026 18:54:18 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cantor says bitcoin bear market may be entering final stretch",
+      "link": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch",
+      "summary": "",
+      "published": "Wed, 01 Jul 2026 15:11:46 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure and energy that power them.",
+      "published": "Wed, 01 Jul 2026 18:47:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
+      "link": "https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case",
+      "summary": "",
+      "published": "Wed, 01 Jul 2026 15:06:22 +0000"
+    }
+  ]
+}
