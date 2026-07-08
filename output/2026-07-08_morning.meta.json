@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-08",
+  "edition": "morning",
+  "generated_at": "2026-07-08T23:07:54.465084+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+      "published": "Wed, 08 Jul 2026 22:41:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
+      "link": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report",
+      "summary": "",
+      "published": "Wed, 08 Jul 2026 15:58:40 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+      "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+      "summary": "The National Highway Traffic Safety Administration said emergency scenes are not \"edge cases.\"",
+      "published": "Wed, 08 Jul 2026 21:49:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc",
+      "summary": "",
+      "published": "Wed, 08 Jul 2026 15:18:10 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google\u2019s deepfake detector system used to debunk McConnell hoax pic",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "published": "Wed, 08 Jul 2026 20:37:03 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
+      "link": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg",
+      "summary": "",
+      "published": "Wed, 08 Jul 2026 15:11:45 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "summary": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry \u2014 in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
+      "published": "Wed, 08 Jul 2026 20:29:50 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dinari, tZERO join forces on turnkey platform for tokenized U.S. equities",
+      "link": "https://www.coindesk.com/business/2026/07/08/dinari-tzero-join-forces-on-turnkey-platform-for-tokenized-u-s-equities",
+      "summary": "",
+      "published": "Wed, 08 Jul 2026 14:35:04 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Autonomous drone delivery startup Manna plots major US expansion",
+      "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+      "summary": "Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people.",
+      "published": "Wed, 08 Jul 2026 20:06:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Adam Back's bitcoin treasury firm scraps SPAC merger, seeks new deal",
+      "link": "https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal",
+      "summary": "",
+      "published": "Wed, 08 Jul 2026 14:17:26 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "published": "Wed, 08 Jul 2026 19:30:16 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
+      "link": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
+      "summary": "",
+      "published": "Wed, 08 Jul 2026 14:01:44 +0000"
+    }
+  ]
+}
