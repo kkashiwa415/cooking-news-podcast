@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-15",
+  "edition": "morning",
+  "generated_at": "2026-07-15T22:58:41.408239+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+      "published": "Wed, 15 Jul 2026 20:22:52 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed",
+      "link": "https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed",
+      "summary": "",
+      "published": "Wed, 15 Jul 2026 20:18:02 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Daniel Ek\u2019s body-scanning startup Neko Health raises another $700M",
+      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+      "published": "Wed, 15 Jul 2026 19:46:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
+      "link": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
+      "summary": "",
+      "published": "Wed, 15 Jul 2026 17:02:22 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "published": "Wed, 15 Jul 2026 19:41:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
+      "link": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
+      "summary": "",
+      "published": "Wed, 15 Jul 2026 16:52:28 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft patches bug in video game Age of Empires II",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims\u2019 computers with a malicious game invite.",
+      "published": "Wed, 15 Jul 2026 18:47:01 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
+      "link": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
+      "summary": "",
+      "published": "Wed, 15 Jul 2026 15:27:43 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple bans home services from its upcoming Maps ads",
+      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google\u2019s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive categories, suggesting Apple is taking a more curated approach to these ads.",
+      "published": "Wed, 15 Jul 2026 18:21:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The privacy paradox of protecting kids online",
+      "link": "https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online",
+      "summary": "",
+      "published": "Wed, 15 Jul 2026 14:58:50 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "published": "Wed, 15 Jul 2026 18:06:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: To ETH or not to ETH \u2014 is SOL the better diversifier?",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
+      "summary": "",
+      "published": "Wed, 15 Jul 2026 14:58:09 +0000"
+    }
+  ]
+}
