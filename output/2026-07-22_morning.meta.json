@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-22",
+  "edition": "morning",
+  "generated_at": "2026-07-22T23:03:42.911408+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "published": "Wed, 22 Jul 2026 22:01:52 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+      "link": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
+      "summary": "",
+      "published": "Wed, 22 Jul 2026 22:22:25 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
+      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "published": "Wed, 22 Jul 2026 20:49:03 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+      "link": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
+      "summary": "",
+      "published": "Wed, 22 Jul 2026 20:40:24 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+      "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+      "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
+      "published": "Wed, 22 Jul 2026 20:43:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
+      "link": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+      "summary": "",
+      "published": "Wed, 22 Jul 2026 16:15:55 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Social media addiction lawsuit against Meta is dropped",
+      "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "summary": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
+      "published": "Wed, 22 Jul 2026 20:36:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
+      "link": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
+      "summary": "",
+      "published": "Wed, 22 Jul 2026 15:53:54 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+      "link": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+      "summary": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina\u2019s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
+      "published": "Wed, 22 Jul 2026 19:42:56 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+      "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+      "summary": "",
+      "published": "Wed, 22 Jul 2026 15:37:36 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "summary": "OpenAI made a mistake setting up what it called a \u201chighly isolated\u201d testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "published": "Wed, 22 Jul 2026 19:11:46 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK digital bond plans hinge on one missing piece: onchain cash",
+      "link": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+      "summary": "",
+      "published": "Wed, 22 Jul 2026 15:36:49 +0000"
+    }
+  ]
+}
