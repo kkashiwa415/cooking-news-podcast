@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-30",
+  "edition": "evening",
+  "generated_at": "2026-07-30T11:08:14.965275+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "SeekingAlpha",
+      "title": "Microsoft: Datacenters Now Last 25 Years; The Chips Inside Do Not",
+      "link": "https://seekingalpha.com/article/4927536-microsoft-datacenters-now-last-25-years-chips-inside-do-not?source=feed_all_articles",
+      "summary": "",
+      "published": "Thu, 30 Jul 2026 07:00:00 -0400"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+      "published": "Thu, 30 Jul 2026 10:15:19 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Touchstone Core Municipal Bond Fund Q2 2026 Commentary",
+      "link": "https://seekingalpha.com/article/4927585-touchstone-core-municipal-bond-fund-q2-2026-commentary?source=feed_all_articles",
+      "summary": "",
+      "published": "Thu, 30 Jul 2026 07:00:00 -0400"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
+      "published": "Mon, 27 Jul 2026 14:24:42 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Qorvo Looks Cheap, But The Skyworks Deal Changes What You Are Buying",
+      "link": "https://seekingalpha.com/article/4927561-qorvo-stock-cheap-but-skyworks-deal-changes-buying?source=feed_all_articles",
+      "summary": "",
+      "published": "Thu, 30 Jul 2026 06:56:25 -0400"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Sorry, haters. Ferrari\u2019s first EV is doing just fine",
+      "link": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
+      "summary": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
+      "published": "Wed, 29 Jul 2026 17:57:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
+      "link": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
+      "summary": "",
+      "published": "Thu, 30 Jul 2026 09:01:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
+      "link": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
+      "summary": "",
+      "published": "Thu, 30 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
+      "link": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
+      "summary": "",
+      "published": "Thu, 30 Jul 2026 06:59:10 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.",
+      "link": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
+      "summary": "",
+      "published": "Thu, 30 Jul 2026 06:28:58 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
+      "link": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
+      "summary": "",
+      "published": "Thu, 30 Jul 2026 05:19:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
+      "link": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
+      "summary": "",
+      "published": "Thu, 30 Jul 2026 04:16:30 +0000"
+    }
+  ]
+}
