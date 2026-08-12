@@ -1,0 +1,92 @@
+{
+  "date": "2026-08-12",
+  "edition": "morning",
+  "generated_at": "2026-08-12T22:40:08.013968+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them cheating at their jobs, classes",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "published": "Wed, 12 Aug 2026 22:26:37 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
+      "link": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
+      "summary": "",
+      "published": "Wed, 12 Aug 2026 22:26:24 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+      "published": "Wed, 12 Aug 2026 22:24:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
+      "link": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
+      "summary": "",
+      "published": "Wed, 12 Aug 2026 22:11:09 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Northrop\u2019s robot space mechanic is a new way to keep satellites at work longer",
+      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "published": "Wed, 12 Aug 2026 20:53:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
+      "link": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
+      "summary": "",
+      "published": "Wed, 12 Aug 2026 17:21:03 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "published": "Wed, 12 Aug 2026 20:10:40 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+      "link": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
+      "summary": "",
+      "published": "Wed, 12 Aug 2026 16:34:24 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Grubhub\u2019s $24M FTC settlement is finally reaching diners and drivers",
+      "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "summary": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+      "published": "Wed, 12 Aug 2026 18:34:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
+      "link": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
+      "summary": "",
+      "published": "Wed, 12 Aug 2026 16:14:49 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "published": "Wed, 12 Aug 2026 18:19:12 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
+      "link": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+      "summary": "",
+      "published": "Wed, 12 Aug 2026 15:00:00 +0000"
+    }
+  ]
+}
