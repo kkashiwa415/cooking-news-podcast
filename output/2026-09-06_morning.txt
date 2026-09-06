@@ -1,0 +1,93 @@
+Apple's App Store just lost one of its most powerful executives, and the reason reveals a philosophical divide at the company over where billions in revenue should come from next.
+
+Phil Schiller, who's been steering Apple's App Store for years, is stepping away from the role. He didn't leave quietly though. Behind the scenes, Schiller had serious reservations about the direction incoming CEO John Ternus wants to take things. Specifically, Ternus is pushing hard to bring in more recurring revenue from the App Store—think subscriptions, in-app purchases, and ongoing monetization beyond the traditional upfront app price model. Schiller apparently wasn't comfortable with how aggressive that shift might become.
+
+This matters because the App Store is one of Apple's most profitable divisions. It's a closed ecosystem that generates enormous margins, and how the company chooses to squeeze more revenue from it will shape the experience for millions of developers and billions of users worldwide. If Apple leans harder into recurring revenue models, we could see more aggressive prompts for subscriptions, higher commission rates on those deals, or pressure on free apps to convert users into paying customers. Developers are watching closely because their ability to make money on iOS depends entirely on Apple's rules. And consumers will feel it in how apps evolve—whether they become more or less friendly to free usage.
+
+The outlook here is that Ternus is signaling a more aggressive monetization posture than his predecessor was comfortable with. Watch for announcements about new App Store policies in the coming months. If Schiller's exit signals a philosophical shift, we should expect to see some pretty significant changes to how Apple runs that marketplace.
+
+In other news, Travis Kalanick, the founder of Uber, is making another move in autonomous vehicles through his company Atoms. Sources suggest Atoms might be stepping into the robotaxi business. Kalanick has been vocal about wanting to complete what he calls "unfinished business," and robotaxis represent exactly that—it's the autonomous future he was pushing toward at Uber before his departure from that company.
+
+Atoms has been working on autonomous vehicle technology and infrastructure, but entering the robotaxi market directly would mark a significant escalation. This puts Kalanick in direct competition with Waymo, Tesla, and other players already operating or testing robotaxi services in major cities. The timing is interesting because the regulatory environment around autonomous vehicles has been settling down, making it more feasible for new entrants to move into this space.
+
+What makes this relevant is that Kalanick isn't just an investor dabbling in the space—he built Uber's ride-sharing empire and has deep expertise in how to scale transportation networks. If Atoms launches a robotaxi service, it could accelerate competition in a market that's been moving slower than early predictions suggested. Consumers could benefit from more options and faster deployment of autonomous ride-hailing in their cities. The challenge is that this is capital-intensive and operationally complex, which is why we haven't seen more startups succeed in this arena.
+
+Watch for Atoms to announce pilot programs or partnerships with cities in the near term. Any formal launch would likely target major metros where demand is highest and regulatory frameworks are already established.
+
+Turning to journalism and artificial intelligence, the legal battle over AI training data just got bigger. The Seattle Times and Newsday have both filed lawsuits against OpenAI and Microsoft, joining dozens of other news organizations in court. The claim is the same one we've been hearing from major publishers: OpenAI and Microsoft used their journalism to train AI models without permission, compensation, or proper licensing.
+
+These aren't small regional papers either. The Seattle Times has significant investigative journalism operations, and Newsday is a major East Coast publication with deep archives. What's happening is a consolidation of legal pressure—as more lawsuits accumulate, they strengthen the case that this isn't a one-off disagreement but a systematic practice. The sheer volume of litigation is making it harder for OpenAI and Microsoft to argue this was acceptable use.
+
+For news organizations, this is existential. If they can't control how their content trains competitors' AI systems, their ability to monetize journalism erodes. For OpenAI and Microsoft, these lawsuits represent a real legal and financial risk. Courts haven't definitively ruled on whether AI training on copyrighted content without permission constitutes fair use, so these cases could set major precedent.
+
+The implications extend beyond journalism. If courts rule against OpenAI and Microsoft, it could reshape how AI companies approach data licensing across industries. Consumers might see AI products that are more limited in scope but legally defensible. Or we could see AI companies pivot to licensing agreements with content creators, which would change the economic model entirely.
+
+Expect discovery phases to reveal exactly what training data was used and how, which will be the critical battlefield in these cases over the coming year.
+
+On the financial markets front, there's notable momentum building in value investing. Schwab's Large-Cap Value ETF, which tracks stocks that trade at lower valuations despite solid fundamentals, is having a strong run. After years of growth stocks dominating, value stocks are getting their moment as economic conditions shift and interest rates settle into a new range.
+
+This shift reflects a broader market rotation that's been happening throughout twenty twenty-six. Investors are rotating out of expensive, high-growth tech stocks and into more traditional value plays—industrials, materials, energy, and financial services. Schwab's value-focused ETF is benefiting from this trend because it offers easy exposure to that rotation without requiring individual stock picking.
+
+What's driving this is that the economic backdrop has changed. With inflation moderating and interest rates no longer headed straight up, the advantage of owning growth companies with uncertain future cash flows has diminished. Value stocks, by contrast, offer dividends and stable earnings right now. They're attractive when investors want yield and when concerns about a recession are rising.
+
+Who benefits? Anyone holding broad index funds gets some value exposure, but active value investors and those specifically tilting toward value strategies are seeing outperformance. If this rotation continues, value-focused funds could outpace growth-heavy indexes for the first time in several years. If the market shifts again toward growth, these gains could reverse quickly.
+
+Watch for whether this rotation accelerates or stalls based on economic data in the next quarter. If we start seeing weakness in corporate earnings or signs of economic slowdown, value will likely outperform further. If growth stabilizes, the rotation could reverse.
+
+Now let's talk about the Federal Reserve and inflation. There's building tension at the Fed right now around inflation expectations and what the right policy path looks like going forward. The phrase being used in markets is that this is a make-or-break moment for how the Fed handles inflation management through the end of twenty twenty-six and into twenty twenty-seven.
+
+The backdrop is that inflation has come down from its peak, but it's not where the Fed ultimately wants it to be. Core inflation—the measure excluding volatile food and energy—remains slightly above the Fed's two percent target. Meanwhile, there are growing concerns about whether wage growth will reignite inflation or whether we're in a stable zone where demand and supply are balanced. It's genuinely uncertain, and different Fed officials have different views on how aggressive policy should be.
+
+This matters enormously because Fed policy affects every financial market, every mortgage rate, every borrowing cost in the economy. If the Fed gets it wrong and inflation starts climbing again, we could see rates spike. If the Fed is too aggressive and pushes the economy into recession unnecessarily, that's costly for workers and businesses. The stakes are extremely high for getting the next series of decisions right.
+
+Investors and business leaders are watching Fed communications and economic data points closely for signals about the September and December rate decision meetings. The next few months of inflation reports and employment data will probably be the most important in determining whether the Fed cuts rates, holds steady, or adjusts its forward guidance. Markets are currently pricing in a moderate approach, but that could change if data surprises.
+
+Watch for the next CPI report and Fed speakers' remarks for clues about whether officials are feeling comfortable or increasingly worried about the inflation trajectory.
+
+In other news, prediction markets are heading toward the Supreme Court. These markets allow people to bet on the outcomes of events—elections, sports, regulatory decisions, and so on—essentially creating a crowd-sourced forecast mechanism. The question is whether they're legal. Right now, most are in a regulatory gray zone, operating with varying degrees of legal uncertainty. But cases are working their way through the courts that could force the Supreme Court to rule definitively on whether prediction markets are constitutional and what framework should govern them.
+
+Why this matters is that prediction markets, if legal and widely available, could fundamentally change how we assess probability and make decisions across society. Right now, election polling and financial futures markets serve as our primary mechanisms for collective forecasting. Prediction markets might be more efficient and more accurate. The challenge is regulatory—they can look like gambling, and there are legitimate concerns about fraud and market manipulation.
+
+The people most affected are prediction market enthusiasts, regulators trying to figure out what rules to set, and potentially voters and decision-makers if these markets eventually provide better forecasts than current tools. If the Supreme Court gives prediction markets a green light, we could see a rush of new platforms and much higher trading volumes. If the Court comes down on the side of treating them as problematic, the industry faces a severe ceiling.
+
+Watch for which cases reach the Supreme Court docket and what lower courts decide in the near term. The legal path here will probably be contentious and go through multiple rounds of appeals before reaching final resolution.
+
+Turning to cryptocurrency and finance, there's a notable development in bitcoin-backed mortgages. Better and Coinbase have launched a product that allows borrowers to use bitcoin as collateral for mortgages, with an interesting twist: borrowers can reuse that same collateral in multiple financial arrangements simultaneously. This is actually a fairly sophisticated financial engineering solution to a problem that's been plaguing crypto-backed lending.
+
+Here's the issue it solves: if you're a bitcoin holder who wants a mortgage, lenders want collateral. Bitcoin is volatile, so they'd typically discount its value heavily or require you to set it aside exclusively for the mortgage. That means your bitcoin is locked up and can't be used for anything else. The new structure from Better and Coinbase allows the same bitcoin to be pledged for multiple purposes, which increases its utility and makes it more attractive to borrow against.
+
+This affects crypto-wealthy individuals who want to access credit without selling their bitcoin—people who believe bitcoin will appreciate and don't want to incur capital gains taxes. It also reflects the maturing of crypto financial infrastructure. When bitcoin lending started, products were crude and inefficient. Now we're seeing sophisticated financial products that treat bitcoin more like a legitimate asset class.
+
+The implications are broader than just mortgages. If you can reuse collateral across multiple products, crypto becomes more integrated with traditional finance. Wealth held in bitcoin becomes more productive and fungible. However, this also introduces complexity and risk—if bitcoin crashes, the borrower might face calls across multiple financial instruments simultaneously, creating cascading liquidations.
+
+Watch for other lenders to offer similar products and for the total value of bitcoin collateral outstanding to grow. This is still a niche product, but it's the kind of financial innovation that tends to accelerate once the first mover proves it works.
+
+On the international finance front, there's important research coming out of the Bank of Korea about dollar-backed stablecoins. They've found that widespread use of these stablecoins—cryptocurrency tokens pegged to the US dollar—can actually push down the value of local currencies like the Korean won. This has significant implications for monetary policy and financial sovereignty.
+
+Here's the mechanism: if you're in Korea and you can hold stablecoins instead of won, you reduce demand for the local currency. If that happens at scale across multiple countries, central banks lose control over their own money supply and inflation dynamics. It's a form of financial dollarization, but through cryptocurrency rather than traditional channels.
+
+This research matters because it provides concrete evidence for a concern that central banks worldwide have been discussing in private. If stablecoins become ubiquitous, they could effectively undermine monetary policy tools in smaller economies. It's not an abstract risk—it's actually happening in some markets where crypto adoption is high.
+
+Who's affected? Citizens in countries where local currency is already unstable or mistrusted—they actually benefit from holding stablecoins because it protects their purchasing power. But central banks see it as a threat to their authority. Regulators are watching this closely and will probably tighten rules around stablecoin issuance and adoption in the coming years.
+
+Expect central banks to increasingly push back on stablecoins and probably advocate for central bank digital currencies as an alternative. This is a long-term trend that will reshape how international finance works.
+
+On the municipal bond front, there's been notable activity in the market. BlackRock's California Municipal Opportunities Fund, BNY Mellon's Short Term Municipal Bond Fund, and various other municipal bond strategies have been navigating an interesting environment in recent quarters. Municipal bonds are debt issued by states, cities, and local governments to fund infrastructure and services. They're attractive to many investors because the interest income is often tax-exempt.
+
+What's happening is that municipalities are facing pressure from higher interest rates and changing demographics. Bond investors are evaluating credit quality carefully and demanding higher yields for riskier issuers. At the same time, some well-managed municipalities are becoming attractive relative to corporate bonds, offering similar yields with tax advantages.
+
+The environment matters for anyone holding municipal bonds—a huge population of individual investors plus institutional money managers. Different strategies are rotating through emphasizing California opportunities, short-term versus long-term duration, infrastructure focus, or other angles. Right now, active management is adding value in the municipal bond space because there's actually significant differentiation between issuers.
+
+Watch for how municipal bond funds perform relative to broad bond indexes and whether credit spreads continue widening or stabilizing. That'll tell you whether investors are growing more concerned about municipal finances or becoming comfortable with current risk levels.
+
+And finally, there's been portfolio activity in emerging markets debt. The John Hancock Emerging Markets Debt Fund, along with various infrastructure and industrials focused strategies including Voya's Infrastructure, Industrials and Materials Fund, have all been responding to a complex global backdrop. Emerging markets debt is debt issued by governments and companies in developing economies. It typically offers higher yields than developed market debt but carries more risk.
+
+What's been happening is that emerging markets are benefiting from moderating US inflation and the possibility of lower rates ahead. Their own central banks have been restrictive in fighting inflation, and that discipline is paying off. At the same time, these economies are becoming more attractive as growth engines relative to slower-growing developed economies.
+
+Infrastructure and industrials specifically are getting renewed attention because many emerging markets need to build out infrastructure, and commodity prices have stabilized at levels that support industrial production and raw material exports. This creates a favorable environment for infrastructure lending and industrial production.
+
+Who benefits? Investors seeking higher yields and believing in emerging market growth stories. This is a riskier allocation than developed market bonds, but the risk premium is there if you're comfortable with currency risk and political risk.
+
+The outlook is that emerging markets could outperform developed markets through the end of twenty twenty-six and into twenty twenty-seven if the global growth story holds and rates continue to settle lower. If we see another inflation spike or risk-off market event, these assets could underperform quickly. The next few months of global economic data will be key in determining whether this outperformance story persists.
+
+That's your briefing for this Sunday morning. We'll be back with updates as these stories develop and new headlines emerge.
