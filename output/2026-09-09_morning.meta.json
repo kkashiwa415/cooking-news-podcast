@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-09",
+  "edition": "morning",
+  "generated_at": "2026-09-09T23:52:04.338878+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Automattic\u2019s board forces CEO Matt Mullenweg into leave of absence",
+      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "summary": "Mullenweg said in a company Slack message that it was against his will.",
+      "published": "Wed, 09 Sep 2026 23:14:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
+      "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+      "summary": "",
+      "published": "Wed, 09 Sep 2026 16:11:07 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "published": "Wed, 09 Sep 2026 22:25:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+      "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+      "summary": "",
+      "published": "Wed, 09 Sep 2026 16:05:11 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "published": "Wed, 09 Sep 2026 21:43:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+      "summary": "",
+      "published": "Wed, 09 Sep 2026 15:51:25 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple\u2019s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+      "published": "Wed, 09 Sep 2026 20:58:09 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+      "summary": "",
+      "published": "Wed, 09 Sep 2026 15:30:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "published": "Wed, 09 Sep 2026 20:24:48 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
+      "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+      "summary": "",
+      "published": "Wed, 09 Sep 2026 15:24:01 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "published": "Wed, 09 Sep 2026 20:03:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+      "summary": "",
+      "published": "Wed, 09 Sep 2026 14:58:07 +0000"
+    }
+  ]
+}
