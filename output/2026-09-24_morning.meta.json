@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-24",
+  "edition": "morning",
+  "generated_at": "2026-09-24T00:16:28.400608+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "published": "Wed, 23 Sep 2026 23:47:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
+      "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
+      "summary": "",
+      "published": "Wed, 23 Sep 2026 19:04:52 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta introduces camera-free AI glasses",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "published": "Wed, 23 Sep 2026 23:39:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
+      "summary": "",
+      "published": "Wed, 23 Sep 2026 18:59:36 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+      "published": "Wed, 23 Sep 2026 23:33:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
+      "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
+      "summary": "",
+      "published": "Wed, 23 Sep 2026 18:04:11 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "published": "Wed, 23 Sep 2026 22:17:39 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside the FBI\u2019s little-known annual crypto crime gathering",
+      "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+      "summary": "",
+      "published": "Wed, 23 Sep 2026 15:26:35 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "If Amazon doesn\u2019t know how to eliminate carbon emissions, then who does?",
+      "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+      "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
+      "published": "Wed, 23 Sep 2026 21:21:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "summary": "",
+      "published": "Wed, 23 Sep 2026 15:07:21 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+      "published": "Wed, 23 Sep 2026 20:35:17 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+      "summary": "",
+      "published": "Wed, 23 Sep 2026 13:02:43 +0000"
+    }
+  ]
+}
