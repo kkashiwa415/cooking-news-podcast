@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-01",
+  "edition": "morning",
+  "generated_at": "2026-10-01T01:06:16.110487+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "published": "Wed, 30 Sep 2026 23:43:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 17:16:31 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
+      "published": "Wed, 30 Sep 2026 23:08:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 15:34:50 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "published": "Wed, 30 Sep 2026 21:07:40 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
+      "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 15:19:36 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+      "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
+      "published": "Wed, 30 Sep 2026 20:39:09 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: What will the AI agents run on?",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 14:56:07 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Is Neko Health\u2019s body scan worth it?\u00a0Spotify billionaire\u2019s\u00a0startup\u00a0has\u00a0come to America",
+      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "summary": "Spotify founder Daniel Ek\u2019s Neko Health raised $700 million to build a business around scanning your body, but it\u2019s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category? On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, [&#8230;]",
+      "published": "Wed, 30 Sep 2026 20:20:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
+      "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 14:04:19 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
+      "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+      "published": "Wed, 30 Sep 2026 19:29:08 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cardano tapped by Brazil\u2019s state oil giant to track cleaner jet fuel and diesel",
+      "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 13:00:00 +0000"
+    }
+  ]
+}
