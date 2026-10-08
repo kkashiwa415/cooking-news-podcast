@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-08",
+  "edition": "morning",
+  "generated_at": "2026-10-08T01:36:17.023406+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "published": "Wed, 07 Oct 2026 23:36:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "summary": "",
+      "published": "Thu, 08 Oct 2026 00:35:24 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders \u2018elsewhere\u2019",
+      "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "published": "Wed, 07 Oct 2026 22:59:16 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+      "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+      "summary": "",
+      "published": "Wed, 07 Oct 2026 18:59:32 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "published": "Wed, 07 Oct 2026 20:48:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polygon taps TRON\u2019s $94 billion stablecoin supply for seamless cross-border transfers",
+      "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+      "summary": "",
+      "published": "Wed, 07 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "published": "Wed, 07 Oct 2026 20:22:37 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Gate bets all-in-one money app is crypto\u2019s biggest consumer trend this year and next",
+      "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+      "summary": "",
+      "published": "Wed, 07 Oct 2026 15:13:15 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
+      "published": "Wed, 07 Oct 2026 18:30:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+      "summary": "",
+      "published": "Wed, 07 Oct 2026 15:03:54 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "summary": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "published": "Wed, 07 Oct 2026 18:15:28 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether tapped by Kazakhstan\u2019s central bank to explore stablecoin and tokenization",
+      "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+      "summary": "",
+      "published": "Wed, 07 Oct 2026 14:27:37 +0000"
+    }
+  ]
+}
