@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-17",
+  "edition": "morning",
+  "generated_at": "2026-10-17T00:11:30.429945+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "published": "Fri, 16 Oct 2026 21:22:28 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Big Tech's AI auditors will only see what they're shown",
+      "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 14:58:22 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Porsche\u2019s electric Macan Turbo is an automotive existential crisis",
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "published": "Fri, 16 Oct 2026 19:40:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 11:15:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "published": "Fri, 16 Oct 2026 17:52:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+      "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 10:54:35 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+      "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 10:52:26 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Waymo\u2019s robotaxis are headed to Canada",
+      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "published": "Fri, 16 Oct 2026 16:06:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+      "link": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 10:48:49 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "published": "Fri, 16 Oct 2026 16:01:37 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+      "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 10:41:03 +0000"
+    }
+  ]
+}
