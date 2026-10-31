@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-31",
+  "edition": "morning",
+  "generated_at": "2026-10-31T01:26:46.056350+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "published": "Sat, 31 Oct 2026 01:20:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+      "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+      "summary": "",
+      "published": "Sat, 31 Oct 2026 00:48:56 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Salesforce\u2019s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "published": "Fri, 30 Oct 2026 23:21:23 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+      "summary": "",
+      "published": "Fri, 30 Oct 2026 19:55:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "published": "Fri, 30 Oct 2026 22:56:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+      "summary": "",
+      "published": "Fri, 30 Oct 2026 16:31:17 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Tech Selloff Wipes Out $1 Trillion In Value",
+      "link": "https://seekingalpha.com/article/4960527-tech-selloff-wipes-out-1-trillion-in-value?source=feed_all_articles",
+      "summary": "",
+      "published": "Fri, 30 Oct 2026 20:10:00 -0400"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "published": "Fri, 30 Oct 2026 21:52:03 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+      "link": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
+      "summary": "",
+      "published": "Fri, 30 Oct 2026 12:13:02 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Arca Continental, S.A.B. de C.V. (EMBVF) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4960358-arca-continental-s-a-b-de-c-v-embvf-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": "",
+      "published": "Fri, 30 Oct 2026 19:48:26 -0400"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "published": "Fri, 30 Oct 2026 21:26:59 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
+      "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+      "summary": "",
+      "published": "Fri, 30 Oct 2026 11:35:16 +0000"
+    }
+  ]
+}
