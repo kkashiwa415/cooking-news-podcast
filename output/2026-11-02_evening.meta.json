@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-02",
+  "edition": "evening",
+  "generated_at": "2026-11-02T19:13:16.986244+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "SeekingAlpha",
+      "title": "NovaBridge Biosciences (NBP) Discusses Mature Givastomig Data and Registrational Development Strategy Transcript",
+      "link": "https://seekingalpha.com/article/4961064-novabridge-biosciences-nbp-discusses-mature-givastomig-data-and-registrational-development?source=feed_all_articles",
+      "summary": "",
+      "published": "Mon, 02 Nov 2026 14:08:25 -0500"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "Raising the quality of insights in agentic analytics",
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+      "published": "Mon, 02 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Baozun Q3 2026 Preview: Turning The Corner, But Macro Overhang Keeps Us Neutral",
+      "link": "https://seekingalpha.com/article/4961061-baozun-q3-2026-preview-turning-the-corner-but-macro-overhang-keeps-us-neutral?source=feed_all_articles",
+      "summary": "",
+      "published": "Mon, 02 Nov 2026 14:05:18 -0500"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "Stop counting tokens, start counting what ships",
+      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+      "published": "Mon, 02 Nov 2026 13:10:32 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Tempus AI, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4961091-tempus-ai-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "summary": "",
+      "published": "Mon, 02 Nov 2026 14:04:23 -0500"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our&#8230;",
+      "published": "Mon, 02 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Public Service Enterprise Group Incorporated 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4961090-public-service-enterprise-group-incorporated-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "summary": "",
+      "published": "Mon, 02 Nov 2026 14:04:03 -0500"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "The agentic web is here",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the \u201cSemantic Web\u201d: an internet designed to be navigated by autonomous software agents that could address our every&#8230;",
+      "published": "Mon, 02 Nov 2026 09:35:19 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Amazon Vs. Alphabet: The $420B AI Capex Squeeze Leaves Both At Hold",
+      "link": "https://seekingalpha.com/article/4961060-amazon-vs-alphabet-the-420b-ai-capex-squeeze-leaves-both-at-hold?source=feed_all_articles",
+      "summary": "",
+      "published": "Mon, 02 Nov 2026 14:02:53 -0500"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "published": "Mon, 02 Nov 2026 16:23:21 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "published": "Mon, 02 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ninja\u2019s first-ever microwave just replaced two of my kitchen appliances at once",
+      "link": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+      "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+      "published": "Mon, 02 Nov 2026 14:42:38 +0000"
+    }
+  ]
+}
