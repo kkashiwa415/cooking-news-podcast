@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-05",
+  "edition": "morning",
+  "generated_at": "2026-11-05T02:00:39.887383+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "published": "Thu, 05 Nov 2026 01:26:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+      "summary": "",
+      "published": "Wed, 04 Nov 2026 22:55:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "summary": "Data center opposition crossed party lines in Tuesday\u2019s midterms.",
+      "published": "Thu, 05 Nov 2026 01:02:14 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "link": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+      "summary": "",
+      "published": "Wed, 04 Nov 2026 22:51:42 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "published": "Wed, 04 Nov 2026 22:45:09 +0000"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "What\u2019s next for US energy policy after the midterm elections?",
+      "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "summary": "I\u2019ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn\u2019t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump\u2019s victory two years ago.&#160;&#160;&#8230;",
+      "published": "Wed, 04 Nov 2026 17:08:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Democratic sweep could be the final nail in the \u2018Clarity Act\u2019s coffin\u2019",
+      "link": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+      "summary": "",
+      "published": "Wed, 04 Nov 2026 16:11:29 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "published": "Wed, 04 Nov 2026 21:56:01 +0000"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "Securing the agentic enterprise with data lineage",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s&#8230;",
+      "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: ICE is betting on retail\u2019s appetite for quick outcomes",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+      "summary": "",
+      "published": "Wed, 04 Nov 2026 15:27:20 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "summary": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests.",
+      "published": "Wed, 04 Nov 2026 21:25:44 +0000"
+    },
+    {
+      "source": "MITTechReview",
+      "title": "How \u201creverse game theory\u201d could keep AI agents in check",
+      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "summary": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are \u201caligned\u201d with human desires\u2014to make sure, in other words, that rogue agents don\u2019t break the law,&#8230;",
+      "published": "Tue, 03 Nov 2026 10:43:41 +0000"
+    }
+  ]
+}
