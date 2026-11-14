@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-14",
+  "edition": "morning",
+  "generated_at": "2026-11-14T01:59:29.367956+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Amazon\u2019s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there\u2019s little reason to upgrade.",
+      "published": "Fri, 13 Nov 2026 23:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "summary": "",
+      "published": "Fri, 13 Nov 2026 23:30:00 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "published": "Fri, 13 Nov 2026 22:43:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+      "summary": "",
+      "published": "Fri, 13 Nov 2026 18:39:58 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
+      "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "published": "Fri, 13 Nov 2026 21:44:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+      "summary": "",
+      "published": "Fri, 13 Nov 2026 17:05:43 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "This young startup wants to power floating data centers with the ocean\u2019s heat, and investors are already on board",
+      "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+      "published": "Fri, 13 Nov 2026 20:07:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin heads for sixth weekly loss as Anthropic\u2019s blockbuster IPO looms",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+      "summary": "",
+      "published": "Fri, 13 Nov 2026 16:01:27 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "published": "Fri, 13 Nov 2026 19:37:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+      "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+      "summary": "",
+      "published": "Fri, 13 Nov 2026 14:02:00 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Cresud Sociedad An\u00f3nima, Comercial, Inmobiliaria, Financiera y Agropecuaria (CRESY) Q1 2027 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967888-cresud-sociedad-anonima-comercial-inmobiliaria-financiera-y-agropecuaria-cresy-q1-2027?source=feed_all_articles",
+      "summary": "",
+      "published": "Fri, 13 Nov 2026 19:58:52 -0500"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "published": "Fri, 13 Nov 2026 16:00:12 +0000"
+    }
+  ]
+}
