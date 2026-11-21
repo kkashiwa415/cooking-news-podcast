@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-21",
+  "edition": "morning",
+  "generated_at": "2026-11-21T03:00:20.092942+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "summary": "Techies are building technology that can advance all aspects of the world \u2014 but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "published": "Fri, 20 Nov 2026 20:58:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+      "summary": "",
+      "published": "Fri, 20 Nov 2026 22:51:14 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "published": "Fri, 20 Nov 2026 19:53:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+      "summary": "",
+      "published": "Fri, 20 Nov 2026 22:05:31 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too.",
+      "published": "Fri, 20 Nov 2026 19:32:08 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+      "summary": "",
+      "published": "Fri, 20 Nov 2026 18:13:52 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "Zurich Insurance Group AG (ZUR:CA) Analyst/Investor Day Transcript",
+      "link": "https://seekingalpha.com/article/4970750-zurich-insurance-group-ag-zur-ca-analyst-investor-day-transcript?source=feed_all_articles",
+      "summary": "",
+      "published": "Fri, 20 Nov 2026 21:02:45 -0500"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Chips can survive the space environment \u2014 can their financing?",
+      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "published": "Fri, 20 Nov 2026 17:40:01 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+      "summary": "",
+      "published": "Fri, 20 Nov 2026 14:38:30 +0000"
+    },
+    {
+      "source": "SeekingAlpha",
+      "title": "KIE: Hiding Out In Insurance Stocks Has Paid Off",
+      "link": "https://seekingalpha.com/article/4970739-kie-hiding-out-in-insurance-stocks-has-paid-off?source=feed_all_articles",
+      "summary": "",
+      "published": "Fri, 20 Nov 2026 20:54:55 -0500"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
+      "published": "Fri, 20 Nov 2026 15:46:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
+      "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+      "summary": "",
+      "published": "Fri, 20 Nov 2026 13:35:33 +0000"
+    }
+  ]
+}
