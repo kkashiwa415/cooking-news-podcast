@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-26",
+  "edition": "morning",
+  "generated_at": "2026-11-26T03:58:54.043124+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "published": "Wed, 25 Nov 2026 22:44:32 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+      "summary": "",
+      "published": "Wed, 25 Nov 2026 18:24:47 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "published": "Wed, 25 Nov 2026 20:56:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+      "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+      "summary": "",
+      "published": "Wed, 25 Nov 2026 17:38:33 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "published": "Wed, 25 Nov 2026 20:03:27 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+      "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+      "summary": "",
+      "published": "Wed, 25 Nov 2026 16:02:31 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "published": "Wed, 25 Nov 2026 19:54:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+      "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+      "summary": "",
+      "published": "Wed, 25 Nov 2026 16:02:07 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "published": "Wed, 25 Nov 2026 19:54:32 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Bitcoin investors can\u2019t keep ignoring Japan",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+      "summary": "",
+      "published": "Wed, 25 Nov 2026 15:59:44 +0000"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "published": "Wed, 25 Nov 2026 19:44:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+      "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+      "summary": "",
+      "published": "Wed, 25 Nov 2026 14:47:17 +0000"
+    }
+  ]
+}
